@@ -9,17 +9,17 @@ name: 'Finding The Way Home'
 description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Mirza Iskandarov'
 # edit 'categories' in the front matter of every post to match this username
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+url: 'http://iskandarov.github.io/jasper/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'iskandarov.github.io/jasper/'
 google_analytics: UA-69281367-1
-disqus: username
+disqus: iskandarov
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /jasper/
 
@@ -54,13 +54,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
+username: iskandarov
 repo: jasper
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://iskandarov.github.io/jasper/
+source_url:      https://github.com/iskandarov/jasper/
 
 exclude:
   - README.md
