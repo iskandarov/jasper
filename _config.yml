@@ -21,7 +21,7 @@ short_url: 'iskandarov.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: iskandarov
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: /blog/
 
 # Permalinks
 permalink: /:title
@@ -55,7 +55,7 @@ exclude: [vendor]
 safe: false
 lsi: false
 username: iskandarov
-repo: jasper
+repo: blog
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
